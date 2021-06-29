@@ -38,3 +38,8 @@ Raw data quality assessment
 
 다양한 plot들
 ppt와 캡쳐본 참고
+
+------------------
+
+Somatic disease의 유전체적 접근과 이해
+NGC중개연구2021_2-4 : 다양한 그래프 소개
